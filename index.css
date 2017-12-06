@@ -1,0 +1,152 @@
+body{
+  font-family: 'Open Sans', sans-serif;
+  
+  
+  margin: 0 auto 0 auto;  
+  width:100%; 
+  text-align:center;
+    
+}
+
+p{
+  font-size:12px;
+  text-decoration: none;
+  color:#ffffff;
+}
+
+h1{
+  font-size:1.5em;
+  color:#525252;
+}
+
+.background-image {
+  
+    position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 1;
+
+  display: block;
+  background-image:  url("https://research.umn.edu/sites/research.umn.edu/files/styles/ovpr_large/public/blog-students-library.jpg?itok=MUjl9AfB");
+ 
+  height: 100%; 
+
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(5px);
+}
+
+.content {
+  position: absolute;
+  top: 20%;
+  left: 35%;
+
+  z-index: 9999;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+.box{
+
+  background:white;
+  width:400px;
+  border-radius:6px;
+
+  margin: 0 auto 0 auto;
+  padding:6px 0px 80px 0px;
+  
+}
+
+.email{
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  border-bottom: #ccc 2px solid;
+  padding: 8px;
+  width:350px;
+  color:#AAAAAA;
+  margin-top:10px;
+  font-size:1em;
+  border-radius:4px;
+}
+
+.password{
+  border-radius:4px;
+  background:#ecf0f1;
+  border: #ccc 1px solid;
+  padding: 8px;
+  width:250px;
+  font-size:1em;
+}
+
+#btn{
+  background:#2ecc71;
+  width:125px;
+  padding-top:10px;
+  padding-bottom:10px;
+  color:white;
+  border-radius:4px;
+
+  
+  margin-top:20px;
+  margin-bottom:20px;
+  float:right;
+  margin-left:16px;
+  margin-right:16px;
+  font-weight:800;
+  font-size:0.8em;
+}
+
+#btn:hover{
+  background:#2CC06B; 
+}
+
+#btn2{
+  float:right;
+  background:#007bff;
+  width:125px;  padding-top:10px;
+  padding-bottom:10px;
+  color:white;
+  border-radius:4px;
+  
+  
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left:16px;
+  margin-right:16px;
+  font-weight:800;
+  font-size:0.8em;
+}
+
+#btn2:hover{ 
+background:#0069db; 
+}
+
+#btn3{
+  float:right;
+  background:#db3434;
+  width:125px;  padding-top:10px;
+  padding-bottom:10px;
+  color:white;
+  border-radius:4px;
+  
+  
+  margin-top:20px;
+  margin-bottom:20px;
+  margin-left:16px;
+  margin-right:16px;
+  font-weight:800;
+  font-size:0.8em;
+}
+
+#btn3:hover{ 
+background:#d13434; 
+}

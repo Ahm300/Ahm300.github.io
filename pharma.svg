@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 172 110" style="enable-background:new 0 0 172 110;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#068486;}
+	.st1{fill:#EFCAD4;}
+	.st2{fill:#007173;}
+	.st3{fill:#E3DDD2;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#FBAF3E;}
+	.st6{font-family:'MonotypeCorsiva';}
+	.st7{font-size:26px;}
+</style>
+<g>
+	<path class="st0" d="M172,97.8V12.2c0-6.6-5.4-12-12-12H12c-6.6,0-12,5.4-12,12v85.7c0,6.6,5.4,12,12,12H160
+		C166.6,109.8,172,104.4,172,97.8z"/>
+	<g>
+		<g>
+			<g>
+				<path class="st1" d="M64.8,24.4c0,2.2,1.8,3.9,3.9,3.9h17c2.2,0,3.9-1.8,3.9-3.9v-0.5c0-2.2-1.8-3.9-3.9-3.9h-17
+					c-2.2,0-3.9,1.8-3.9,3.9V24.4z"/>
+				<path class="st1" d="M69.4,44.1V24.6H85v19.6c1.8,2,21.8,32.9,21.8,38.5c0,3.9-3.2,7.2-7,7.2H55.4c-3.9,0-6.7-3.3-6.7-7.2
+					C48.7,76.8,67.6,46.5,69.4,44.1z"/>
+				<g>
+					<g>
+						<path class="st2" d="M100.2,79.9c0,3-2.4,5.5-5.4,5.5H60.4c-3,0-5.4-2.5-5.4-5.5c0-2.5,6.9-14.7,10.3-19.3h24.5
+							C93.2,65.1,100.2,77.5,100.2,79.9z"/>
+					</g>
+				</g>
+				
+					<ellipse transform="matrix(0.9345 -0.3559 0.3559 0.9345 -20.8174 35.3385)" class="st3" cx="85.6" cy="74.3" rx="4.7" ry="4.7"/>
+				
+					<ellipse transform="matrix(0.9344 -0.3561 0.3561 0.9344 -19.7422 29.2908)" class="st4" cx="69.7" cy="68.3" rx="2.5" ry="2.5"/>
+				
+					<ellipse transform="matrix(0.9347 -0.3555 0.3555 0.9347 -22.5777 31.2721)" class="st4" cx="73.8" cy="77.1" rx="1.7" ry="1.7"/>
+			</g>
+			<g>
+				<path class="st1" d="M90.2,37.8c0,1.4,1.1,2.5,2.5,2.5h16.8c1.4,0,2.5-1.1,2.5-2.5v-2.2c0-1.4-1.1-2.5-2.5-2.5H92.7
+					c-1.4,0-2.5,1.1-2.5,2.5V37.8z"/>
+				<rect x="93.8" y="35.9" class="st1" width="15.3" height="21.8"/>
+				<circle class="st1" cx="101.4" cy="67" r="21.9"/>
+				<g>
+					<g>
+						<path class="st5" d="M119.5,66.8c0,10-8.1,18.2-18.1,18.2c-10,0-18.1-8.2-18.1-18.2c0-2.1,0.4-4.7,1-6.2h34.1
+							C119.2,62.1,119.5,64.7,119.5,66.8z"/>
+					</g>
+				</g>
+				<circle class="st4" cx="111" cy="68.4" r="2.9"/>
+				<circle class="st4" cx="103" cy="75.5" r="3.7"/>
+				<circle class="st4" cx="92.9" cy="66.6" r="2"/>
+			</g>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 40.0372 61.3161)" class="st4 st6 st7">Pharmacy</text>
+</svg>
